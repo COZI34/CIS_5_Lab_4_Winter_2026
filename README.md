@@ -1,6 +1,11 @@
 ## Video Link
 https://youtu.be/uZkifOEqoaI
 
+Key Questions:
+1.The original variable stays unchanged because a copy is passed to the function.
+2.The function directly modifies the original array in memory, so changes persist.
+3.It prevents accidental modification and ensures data safety when only reading values.
+
 # CIS_5_Lab_4_Winter_2026
 
 Functions & Passing Methods
